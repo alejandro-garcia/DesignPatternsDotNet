@@ -1,8 +1,0 @@
-c:\users\student\documents\visual studio 2012\Projects\ConsoleApplication1\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe.config
-c:\users\student\documents\visual studio 2012\Projects\ConsoleApplication1\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe
-c:\users\student\documents\visual studio 2012\Projects\ConsoleApplication1\ObserverPatternExample\bin\Debug\ObserverPatternExample.pdb
-c:\users\student\documents\visual studio 2012\Projects\ConsoleApplication1\ObserverPatternExample\obj\Debug\ObserverPatternExample.exe
-c:\users\student\documents\visual studio 2012\Projects\ConsoleApplication1\ObserverPatternExample\obj\Debug\ObserverPatternExample.pdb
-C:\Users\Student\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ObserverPatternExample\bin\Debug\ObserverPatternExample.exe.config
-C:\Users\Student\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ObserverPatternExample\obj\Debug\ObserverPatternExample.exe
-C:\Users\Student\Documents\Visual Studio 2012\Projects\ConsoleApplication2\ObserverPatternExample\obj\Debug\ObserverPatternExample.pdb
